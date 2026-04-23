@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import GreedStrategy
-from problems.robotNavigation.DiMaria import RobotNavigationProblem
+from problems.robotNavigation.diMaria import RobotNavigationProblem
 
 # Definiamo una griglia 5x5
 # Mettiamo un muro di osticali in mezzo

@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import BreadthFirstStrategy
-from waterJug_problem import WaterJugProblem
+from problems.waterJug.diMaria import WaterJugProblem
 
 # Partiamo con le brocche vuote
 problem = WaterJugProblem(initial_state=(0, 0, 0))

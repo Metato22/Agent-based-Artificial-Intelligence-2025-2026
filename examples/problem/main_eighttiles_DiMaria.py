@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import AStarStrategy
-from problems.eightTiles.DiMaria import PuzzleProblem
+from problems.eightTiles.diMaria import PuzzleProblem
 
 def print_grid(state):
     """Funzione di utility per stampare la tupla come una griglia 3x3"""

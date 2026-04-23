@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import BreadthFirstStrategy
-from problems.hanoiTower.DiMaria import HanoiProblem
+from problems.hanoiTower.diMaria import HanoiProblem
 
 # DEFINIZIONE STATI (Tupla di Tuple)
 # Il numero più grande (3) rappresenta il disco alla base

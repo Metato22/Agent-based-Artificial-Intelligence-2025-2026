@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import UniformCostStrategy
-from network_problem import NetworkRoutingProblem, A, G
+from problems.networkRouting.DiMaria import NetworkRoutingProblem, A, G
 
 problem = NetworkRoutingProblem(initial_state=A, goal_state=G)
 

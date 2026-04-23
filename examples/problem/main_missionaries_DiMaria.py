@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import BreadthFirstStrategy
-from problems.missionariesAndCanniblesProblem.DiMaria import MissionariesProblem
+from problems.missionariesAndCanniblesProblem.diMaria import MissionariesProblem
 
 # Inizializzazione standard
 problem = MissionariesProblem()

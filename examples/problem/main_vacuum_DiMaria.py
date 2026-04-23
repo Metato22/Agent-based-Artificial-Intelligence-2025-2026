@@ -2,7 +2,7 @@
 
 from path_search.search import Search
 from path_search.strategies import AStarStrategy
-from vacuum_problem import VacuumProblem
+from problems.vacuumCleaner.diMaria import VacuumProblem
 
 # STRUTTURA DELLO STATO INIZIALE: ( Posizione_Robot, (Tupla_Sporco) )
 dirt = ((0, 0), (2, 0), (2, 2))
